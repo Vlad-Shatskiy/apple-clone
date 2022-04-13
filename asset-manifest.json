@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/apple-clone/static/css/main.ef0d3b61.chunk.css",
-    "main.js": "/apple-clone/static/js/main.d46c906b.chunk.js",
-    "main.js.map": "/apple-clone/static/js/main.d46c906b.chunk.js.map",
+    "main.js": "/apple-clone/static/js/main.19bd5627.chunk.js",
+    "main.js.map": "/apple-clone/static/js/main.19bd5627.chunk.js.map",
     "runtime-main.js": "/apple-clone/static/js/runtime-main.9774f317.js",
     "runtime-main.js.map": "/apple-clone/static/js/runtime-main.9774f317.js.map",
-    "static/js/2.b3547203.chunk.js": "/apple-clone/static/js/2.b3547203.chunk.js",
-    "static/js/2.b3547203.chunk.js.map": "/apple-clone/static/js/2.b3547203.chunk.js.map",
+    "static/js/2.62d54974.chunk.js": "/apple-clone/static/js/2.62d54974.chunk.js",
+    "static/js/2.62d54974.chunk.js.map": "/apple-clone/static/js/2.62d54974.chunk.js.map",
     "static/js/3.592e5333.chunk.js": "/apple-clone/static/js/3.592e5333.chunk.js",
     "static/js/3.592e5333.chunk.js.map": "/apple-clone/static/js/3.592e5333.chunk.js.map",
     "index.html": "/apple-clone/index.html",
     "static/css/main.ef0d3b61.chunk.css.map": "/apple-clone/static/css/main.ef0d3b61.chunk.css.map",
-    "static/js/2.b3547203.chunk.js.LICENSE.txt": "/apple-clone/static/js/2.b3547203.chunk.js.LICENSE.txt",
+    "static/js/2.62d54974.chunk.js.LICENSE.txt": "/apple-clone/static/js/2.62d54974.chunk.js.LICENSE.txt",
     "static/media/account.71bff070.svg": "/apple-clone/static/media/account.71bff070.svg",
     "static/media/airpods.2b61ae90.jpg": "/apple-clone/static/media/airpods.2b61ae90.jpg",
     "static/media/airpods.8ab165d0.svg": "/apple-clone/static/media/airpods.8ab165d0.svg",
@@ -147,8 +147,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9774f317.js",
-    "static/js/2.b3547203.chunk.js",
+    "static/js/2.62d54974.chunk.js",
     "static/css/main.ef0d3b61.chunk.css",
-    "static/js/main.d46c906b.chunk.js"
+    "static/js/main.19bd5627.chunk.js"
   ]
 }
