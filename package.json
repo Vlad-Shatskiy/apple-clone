@@ -2,7 +2,7 @@
   "name": "vladappleclone",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://vlad-shatskiy.github.io/",
+  "homepage": "https://vlad-shatskiy.github.io/apple-clone/",
   "dependencies": {
     "-": "^0.0.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
