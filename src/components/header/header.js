@@ -101,18 +101,18 @@ function Header() {
               <li>
                 <a href="# ">Store</a>
               </li>
-              <li>
+              {/* <li>
                 <Link to="/machome">Mac</Link>
               </li>
               <li>
                 <Link to="/ipad">iPad</Link>
-              </li>
+              </li> */}
               <li>
                 <Link to="iphone12">iPhone</Link>
               </li>
-              <li>
+              {/* <li>
                 <Link to="/watch">Watch</Link>
-              </li>
+              </li> */}
               <li>
                 <Link to="/tv">TV</Link>
               </li>
