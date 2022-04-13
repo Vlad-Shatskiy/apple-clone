@@ -1,5 +1,5 @@
 {
-  "name": "vladappleclone",
+  "name": "apple-clone",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://vlad-shatskiy.github.io/apple-clone/",
@@ -30,7 +30,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -53,5 +53,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://vlad-shatskiy.github.io/apple-clone/"
+  },
+  "author": "Vlad Shatskiy",
+  "license": "ISC"
 }

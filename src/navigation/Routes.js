@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
+import { Route, HashRouter as Router, Switch } from "react-router-dom";
 import Home from "../pages/home/home";
 import Header from "../components/header/header";
 import iphone12 from "../pages/iphone12/iphone12";
